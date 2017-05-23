@@ -1,0 +1,23 @@
+#l10n-sidebar {
+  background-color: rgba(6, 120, 190, 0.2);
+  position: relative;
+  width: 1240px;
+  padding-right: 300px;
+}
+.l10n-fixed {
+  background-color: rgba(6, 120, 190, 0.2);
+  position: fixed !important;
+  top:0;
+}
+#slide {
+  background-color: rgba(6, 120, 190, 0.2);
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  padding: 10px;
+}
+#block {
+  background-color: rgba(6, 120, 190, 0.2);
+  padding: 10px;
+  margin: 10px 0 0 0;
+}
