@@ -4,6 +4,13 @@
   width: 1240px;
   padding-right: 300px;
 }
+#l10n-sidebar-container {
+  position: absolute;
+  width: 300px;
+  height: 100%;
+  top: 0;
+  right: 0;
+}
 .l10n-fixed {
   background-color: rgba(6, 120, 190, 0.2);
   position: fixed !important;
@@ -12,7 +19,6 @@
 #slide {
   background-color: rgba(6, 120, 190, 0.2);
   position: absolute;
-  right: 0px;
   width: 300px;
   padding: 10px;
 }
